@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="parameter">
+    <test name="param">
+        <classes>
+            <parameter name = "name"  value = "karry"/>
+            <parameter name = "age"   value="21"/>
+            <class name="com.assertx.testng.parameter.ParameterTest" />
+        </classes>
+    </test>
+</suite>
